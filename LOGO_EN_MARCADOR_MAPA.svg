@@ -56,9 +56,10 @@
 }
 
 svg {
-  margin-top:20px;
+  margin-top:25px;
   width: 100px;
   height: 100px;
+  padding-top: 15px;
 }
 
 
