@@ -58,9 +58,17 @@
 
 svg {
   
-  padding: 100px;
+  
   width: 100px;
   height: 100px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
 }
 
 </style>
